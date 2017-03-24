@@ -1,0 +1,11 @@
+     ESP8266wiFi
+     Adafruit GFX Library
+     Adafruit PCD8544 Nokia 5110 LCD library
+
+	 
+	      ESP8266wifi
+     AzureIoTHub
+     AzureIoTUtility
+     AzureIoTProtocol_MQTT
+	 
+	 

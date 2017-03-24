@@ -1,0 +1,16 @@
+
+
+http://platformio.org/lib/show/257/Adafruit%20PCD8544%20Nokia%205110%20LCD%20library
+
+// ESP8266 Software SPI (slower updates, more flexible pin options):
+// pin 14 - Serial clock out (SCLK)
+// pin 13 - Serial data out (DIN)
+// pin 12 - Data/Command select (D/C)
+// pin 5 - LCD chip select (CS)
+// pin 4 - LCD reset (RST)
+// https://iotbytes.wordpress.com/nodemcu-pinout/
+// SPI SCK = GPIO #14 (default) D5
+// SPI MOSI = GPIO #13 (default) D7
+// SPI MISO = GPIO #12 (default) D6
+// I2C SCL = GPIO #5 (default) D1
+// I2C SDA = GPIO #4 (default)  D2
